@@ -1,0 +1,518 @@
+=========================================
+C main message : size rank : 256 / 0
+=========================================
+C Main> start sample1
+in aimsklmc.f90 : KLMC3 klmc_task_iopath   : /mnt/lustre/a2fs-work2/work/e05/e05/wkjee/Software/gulpklmc/klmc3_tf_interface.fhiaims.14082023/TestRun2/sample1                                                                                                                                                                                                                                                                                                                                                                                                                
+in aimsklmc.f90 : KLMC3 klmc_task_filepath : /mnt/lustre/a2fs-work2/work/e05/e05/wkjee/Software/gulpklmc/klmc3_tf_interface.fhiaims.14082023/TestRun2/sample1/aimsklmc.out                                                                                                                                                                                                                                                                                                                                                                                                   
+ *** Proc   79 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  163 in parse_control: * Input file control.in not found.
+ *** Proc   81 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  207 in parse_control: * Input file control.in not found.
+ *** Proc  208 in parse_control: * Input file control.in not found.
+ *** Proc   83 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   84 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  210 in parse_control: * Input file control.in not found.
+ *** Proc   86 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   87 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   88 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   90 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   92 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  211 in parse_control: * Input file control.in not found.
+ *** Proc   93 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  213 in parse_control: * Input file control.in not found.
+ *** Proc   94 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  215 in parse_control: * Input file control.in not found.
+ *** Proc  216 in parse_control: * Input file control.in not found.
+ *** Proc   98 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  218 in parse_control: * Input file control.in not found.
+ *** Proc  101 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  249 in parse_control: * Input file control.in not found.
+ *** Proc  170 in parse_control: * Input file control.in not found.
+ *** Proc  102 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  188 in parse_control: * Input file control.in not found.
+ *** Proc  110 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  193 in parse_control: * Input file control.in not found.
+ *** Proc  111 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  195 in parse_control: * Input file control.in not found.
+ *** Proc  196 in parse_control: * Input file control.in not found.
+ *** Proc  114 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  197 in parse_control: * Input file control.in not found.
+ *** Proc  198 in parse_control: * Input file control.in not found.
+ *** Proc  121 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  123 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  199 in parse_control: * Input file control.in not found.
+ *** Proc  200 in parse_control: * Input file control.in not found.
+ *** Proc  201 in parse_control: * Input file control.in not found.
+ *** Proc  125 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  203 in parse_control: * Input file control.in not found.
+ *** Proc  204 in parse_control: * Input file control.in not found.
+ *** Proc  127 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  206 in parse_control: * Input file control.in not found.
+ *** Proc  209 in parse_control: * Input file control.in not found.
+ *** Proc   32 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  212 in parse_control: * Input file control.in not found.
+ *** Proc  217 in parse_control: * Input file control.in not found.
+ *** Proc  219 in parse_control: * Input file control.in not found.
+ *** Proc   45 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  220 in parse_control: * Input file control.in not found.
+ *** Proc  221 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   64 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  222 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  223 in parse_control: * Input file control.in not found.
+ *** Proc   65 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  226 in parse_control: * Input file control.in not found.
+ *** Proc  231 in parse_control: * Input file control.in not found.
+ *** Proc   66 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  240 in parse_control: * Input file control.in not found.
+ *** Proc  241 in parse_control: * Input file control.in not found.
+ *** Proc   67 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  244 in parse_control: * Input file control.in not found.
+ *** Proc   68 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  245 in parse_control: * Input file control.in not found.
+ *** Proc  246 in parse_control: * Input file control.in not found.
+ *** Proc   73 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  247 in parse_control: * Input file control.in not found.
+ *** Proc  248 in parse_control: * Input file control.in not found.
+ *** Proc   75 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  251 in parse_control: * Input file control.in not found.
+ *** Proc   76 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  252 in parse_control: * Input file control.in not found.
+ *** Proc  253 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   77 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  255 in parse_control: * Input file control.in not found.
+ 
+ 
+ *** Proc   80 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   82 in parse_control: * Input file control.in not found.
+ 
+ 
+ *** Proc   85 in parse_control: * Input file control.in not found.
+ 
+ 
+ *** Proc  192 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   89 in parse_control: * Input file control.in not found.
+ 
+ 
+ *** Proc   91 in parse_control: * Input file control.in not found.
+ 
+ 
+ *** Proc   95 in parse_control: * Input file control.in not found.
+ 
+ 
+ *** Proc   96 in parse_control: * Input file control.in not found.
+ 
+ 
+ 
+ 
+ *** Proc  105 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  205 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  107 in parse_control: * Input file control.in not found.
+ 
+ 
+ 
+ *** Proc  108 in parse_control: * Input file control.in not found.
+ 
+ 
+ *** Proc  112 in parse_control: * Input file control.in not found.
+ 
+ 
+ *** Proc  113 in parse_control: * Input file control.in not found.
+ 
+ 
+ *** Proc  115 in parse_control: * Input file control.in not found.
+ 
+ 
+ *** Proc  116 in parse_control: * Input file control.in not found.
+ 
+ 
+ *** Proc  117 in parse_control: * Input file control.in not found.
+ 
+ 
+ *** Proc  119 in parse_control: * Input file control.in not found.
+ 
+ 
+ *** Proc  120 in parse_control: * Input file control.in not found.
+ 
+ 
+ *** Proc  122 in parse_control: * Input file control.in not found.
+ 
+ 
+ *** Proc  124 in parse_control: * Input file control.in not found.
+ 
+ 
+ *** Proc  126 in parse_control: * Input file control.in not found.
+ 
+ 
+ *** Proc   71 in parse_control: * Input file control.in not found.
+ 
+ 
+ *** Proc  109 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   72 in parse_control: * Input file control.in not found.
+ 
+ 
+ *** Proc   70 in parse_control: * Input file control.in not found.
+ 
+ 
+ *** Proc   78 in parse_control: * Input file control.in not found.
+ 
+ 
+ 
+ *** Proc   74 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   69 in parse_control: * Input file control.in not found.
+ 
+ 
+ 
+ *** Proc  118 in parse_control: * Input file control.in not found.
+ 
+ 
+ *** Proc  106 in parse_control: * Input file control.in not found.
+ 
+ 
+ 
+ *** Proc   99 in parse_control: * Input file control.in not found.
+ 
+ 
+ *** Proc  104 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  224 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   97 in parse_control: * Input file control.in not found.
+ 
+ 
+ *** Proc  103 in parse_control: * Input file control.in not found.
+ 
+ 
+ *** Proc  100 in parse_control: * Input file control.in not found.
+ 
+ 
+ 
+ *** Proc   59 in parse_control: * Input file control.in not found.
+ 
+ 
+ *** Proc   63 in parse_control: * Input file control.in not found.
+ 
+ 
+ *** Proc   48 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  250 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   54 in parse_control: * Input file control.in not found.
+ 
+ 
+ *** Proc  202 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   55 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  232 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   50 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   53 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  236 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   60 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  243 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   49 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  233 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   61 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  230 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   56 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  238 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   34 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  254 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   58 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  194 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   52 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  242 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   51 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  235 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   41 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  239 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   39 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  234 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   57 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   33 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  229 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   62 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  172 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   20 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  227 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  237 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  228 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  183 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  225 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  176 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  185 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  177 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  160 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  191 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   37 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  180 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   47 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  190 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  182 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   46 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  181 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   44 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  179 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   42 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  189 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  178 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   36 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  184 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  173 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  166 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  161 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  187 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  151 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  186 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   40 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  131 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   38 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  174 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   35 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  162 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   26 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  171 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  168 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   43 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  214 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  167 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  164 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  175 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  169 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  147 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  165 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   18 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  156 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   21 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   29 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  141 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   23 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  144 in parse_control: * Input file control.in not found.
+ 
+ *** Proc    2 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  135 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  153 in parse_control: * Input file control.in not found.
+ 
+ *** Proc    7 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  149 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  136 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   13 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  155 in parse_control: * Input file control.in not found.
+ 
+ *** Proc    0 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  128 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  152 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   24 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  159 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   31 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  132 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   25 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  154 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   16 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  150 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   17 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  145 in parse_control: * Input file control.in not found.
+ 
+ *** Proc    3 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   27 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   15 in parse_control: * Input file control.in not found.
+ 
+ *** Proc    9 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  129 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   14 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  143 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  134 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   22 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   10 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  133 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   12 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  157 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  146 in parse_control: * Input file control.in not found.
+ 
+ *** Proc    8 in parse_control: * Input file control.in not found.
+ 
+ *** Proc    1 in parse_control: * Input file control.in not found.
+ 
+ *** Proc    5 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   28 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   11 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  140 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  137 in parse_control: * Input file control.in not found.
+ 
+ *** Proc    4 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  139 in parse_control: * Input file control.in not found.
+ 
+ *** Proc    6 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  130 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   30 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  148 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  142 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  138 in parse_control: * Input file control.in not found.
+ 
+ *** Proc  158 in parse_control: * Input file control.in not found.
+ 
+ *** Proc   19 in parse_control: * Input file control.in not found.
+ 

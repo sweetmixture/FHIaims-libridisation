@@ -28,8 +28,10 @@ int main()
 	MPI_Comm_size(base_comm,&size);
 	MPI_Comm_rank(base_comm,&rank);
 
-        if(rank == 0){
-		printf("size rank : %d / %d\n",size,rank);
+	if(rank == 0){
+		printf("=========================================\n");
+		printf("C main message : size rank : %d / %d\n",size,rank);
+		printf("=========================================\n");
 	}
 
 	char root[512];
@@ -41,6 +43,7 @@ int main()
 	strcpy(iopath,root);
 	strcat(iopath,"/sample1");
 	chdir(iopath);
+	if(rank == 0){ fprintf(stdout,"C Main> start sample1\n"); fflush(stdout); }
 	aimsklmc( &base_comm, iopath, &task_id, &worker_id );
 	chdir(root);
 
@@ -49,6 +52,7 @@ int main()
 	strcpy(iopath,root);
 	strcat(iopath,"/sample2");
 	chdir(iopath);
+	if(rank == 0){ fprintf(stdout,"C Main> start sample2\n"); fflush(stdout); }
 	aimsklmc( &base_comm, iopath, &task_id, &worker_id );
 	chdir(root);
 
@@ -57,9 +61,15 @@ int main()
 	strcpy(iopath,root);
 	strcat(iopath,"/sample3");
 	chdir(iopath);
+	if(rank == 0){ fprintf(stdout,"C Main> start sample3\n"); fflush(stdout); }
 	aimsklmc( &base_comm, iopath, &task_id, &worker_id );
 	chdir(root);
 
+	if(rank == 0){
+		printf("=========================================\n");
+		printf("C main message : Finalise\n");
+		printf("=========================================\n");
+	}
 	MPI_Finalize();
 	return 0;
 }

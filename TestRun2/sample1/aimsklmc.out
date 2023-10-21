@@ -1,0 +1,333 @@
+------------------------------------------------------------
+          Invoking FHI-aims ...
+
+          When using FHI-aims, please cite the following reference:
+
+            Volker Blum, Ralf Gehrke, Felix Hanke, Paula Havu,
+            Ville Havu, Xinguo Ren, Karsten Reuter, and Matthias Scheffler,
+            'Ab Initio Molecular Simulations with Numeric Atom-Centered Orbitals',
+            Computer Physics Communications 180, 2175-2196 (2009)
+
+          In addition, many other developments in FHI-aims are likely important for
+          your particular application. A partial list of references is given at the end of
+          this file. Thank you for giving credit to the authors of these developments.
+
+          For any questions about FHI-aims, please visit our slack channel at
+
+            https://fhi-aims.slack.com
+
+          and our main development and support site at
+
+            https://aims-git.rz-berlin.mpg.de .
+
+          The latter site, in particular, has a wiki to collect information, as well
+          as an issue tracker to log discussions, suggest improvements, and report issues
+          or bugs. https://aims-git.rz-berlin.mpg.de is also the main development site
+          of the project and all new and updated code versions can be obtained there.
+          Please send an email to aims-coordinators@fhi-berlin.mpg.de and we will add
+          you to these sites. They are for you and everyone is welcome there.
+
+------------------------------------------------------------
+
+
+
+  Date     :  20230902, Time     :  163127.125
+  Time zero on CPU 1             :   0.187179600000000E+01  s.
+  Internal wall clock time zero  :           462904287.125  s.
+
+  FHI-aims created a unique identifier for this run for later identification
+  aims_uuid : 31510955-2560-4DC7-A59D-BEF3C7FDFBDE
+
+  Build configuration of the current instance of FHI-aims
+  -------------------------------------------------------
+  FHI-aims version      : 221103
+  Commit number         : GITDIR-NOTFOUND
+  CMake host system     : Linux-5.14.21-150400.24.46_12.0.70-cray_shasta_c
+  CMake version         : 3.21.3
+  Fortran compiler      : /opt/cray/pe/craype/2.7.19/bin/ftn (GNU) version 11.2.0
+  Fortran compiler flags: -O2 -fallow-argument-mismatch -ffree-line-length-none
+  C compiler            : /opt/cray/pe/craype/2.7.19/bin/cc (GNU) version 11.2.0
+  C compiler flags      : -O2
+  HIP compiler          :
+  HIP compiler flags    :
+  HIP GPU arch          :
+  Using MPI
+  Using ScaLAPACK
+  Using LibXC
+  Using i-PI
+  Using RLSY
+  Linking against:
+
+  Using      256 parallel tasks.
+  Task        0 on host nid001812 reporting.
+  Task        1 on host nid001812 reporting.
+  Task        2 on host nid001812 reporting.
+  Task        3 on host nid001812 reporting.
+  Task        4 on host nid001812 reporting.
+  Task        5 on host nid001812 reporting.
+  Task        6 on host nid001812 reporting.
+  Task        7 on host nid001812 reporting.
+  Task        8 on host nid001812 reporting.
+  Task        9 on host nid001812 reporting.
+  Task       10 on host nid001812 reporting.
+  Task       11 on host nid001812 reporting.
+  Task       12 on host nid001812 reporting.
+  Task       13 on host nid001812 reporting.
+  Task       14 on host nid001812 reporting.
+  Task       15 on host nid001812 reporting.
+  Task       16 on host nid001812 reporting.
+  Task       17 on host nid001812 reporting.
+  Task       18 on host nid001812 reporting.
+  Task       19 on host nid001812 reporting.
+  Task       20 on host nid001812 reporting.
+  Task       21 on host nid001812 reporting.
+  Task       22 on host nid001812 reporting.
+  Task       23 on host nid001812 reporting.
+  Task       24 on host nid001812 reporting.
+  Task       25 on host nid001812 reporting.
+  Task       26 on host nid001812 reporting.
+  Task       27 on host nid001812 reporting.
+  Task       28 on host nid001812 reporting.
+  Task       29 on host nid001812 reporting.
+  Task       30 on host nid001812 reporting.
+  Task       31 on host nid001812 reporting.
+  Task       32 on host nid001812 reporting.
+  Task       33 on host nid001812 reporting.
+  Task       34 on host nid001812 reporting.
+  Task       35 on host nid001812 reporting.
+  Task       36 on host nid001812 reporting.
+  Task       37 on host nid001812 reporting.
+  Task       38 on host nid001812 reporting.
+  Task       39 on host nid001812 reporting.
+  Task       40 on host nid001812 reporting.
+  Task       41 on host nid001812 reporting.
+  Task       42 on host nid001812 reporting.
+  Task       43 on host nid001812 reporting.
+  Task       44 on host nid001812 reporting.
+  Task       45 on host nid001812 reporting.
+  Task       46 on host nid001812 reporting.
+  Task       47 on host nid001812 reporting.
+  Task       48 on host nid001812 reporting.
+  Task       49 on host nid001812 reporting.
+  Task       50 on host nid001812 reporting.
+  Task       51 on host nid001812 reporting.
+  Task       52 on host nid001812 reporting.
+  Task       53 on host nid001812 reporting.
+  Task       54 on host nid001812 reporting.
+  Task       55 on host nid001812 reporting.
+  Task       56 on host nid001812 reporting.
+  Task       57 on host nid001812 reporting.
+  Task       58 on host nid001812 reporting.
+  Task       59 on host nid001812 reporting.
+  Task       60 on host nid001812 reporting.
+  Task       61 on host nid001812 reporting.
+  Task       62 on host nid001812 reporting.
+  Task       63 on host nid001812 reporting.
+  Task       64 on host nid001812 reporting.
+  Task       65 on host nid001812 reporting.
+  Task       66 on host nid001812 reporting.
+  Task       67 on host nid001812 reporting.
+  Task       68 on host nid001812 reporting.
+  Task       69 on host nid001812 reporting.
+  Task       70 on host nid001812 reporting.
+  Task       71 on host nid001812 reporting.
+  Task       72 on host nid001812 reporting.
+  Task       73 on host nid001812 reporting.
+  Task       74 on host nid001812 reporting.
+  Task       75 on host nid001812 reporting.
+  Task       76 on host nid001812 reporting.
+  Task       77 on host nid001812 reporting.
+  Task       78 on host nid001812 reporting.
+  Task       79 on host nid001812 reporting.
+  Task       80 on host nid001812 reporting.
+  Task       81 on host nid001812 reporting.
+  Task       82 on host nid001812 reporting.
+  Task       83 on host nid001812 reporting.
+  Task       84 on host nid001812 reporting.
+  Task       85 on host nid001812 reporting.
+  Task       86 on host nid001812 reporting.
+  Task       87 on host nid001812 reporting.
+  Task       88 on host nid001812 reporting.
+  Task       89 on host nid001812 reporting.
+  Task       90 on host nid001812 reporting.
+  Task       91 on host nid001812 reporting.
+  Task       92 on host nid001812 reporting.
+  Task       93 on host nid001812 reporting.
+  Task       94 on host nid001812 reporting.
+  Task       95 on host nid001812 reporting.
+  Task       96 on host nid001812 reporting.
+  Task       97 on host nid001812 reporting.
+  Task       98 on host nid001812 reporting.
+  Task       99 on host nid001812 reporting.
+  Task      100 on host nid001812 reporting.
+  Task      101 on host nid001812 reporting.
+  Task      102 on host nid001812 reporting.
+  Task      103 on host nid001812 reporting.
+  Task      104 on host nid001812 reporting.
+  Task      105 on host nid001812 reporting.
+  Task      106 on host nid001812 reporting.
+  Task      107 on host nid001812 reporting.
+  Task      108 on host nid001812 reporting.
+  Task      109 on host nid001812 reporting.
+  Task      110 on host nid001812 reporting.
+  Task      111 on host nid001812 reporting.
+  Task      112 on host nid001812 reporting.
+  Task      113 on host nid001812 reporting.
+  Task      114 on host nid001812 reporting.
+  Task      115 on host nid001812 reporting.
+  Task      116 on host nid001812 reporting.
+  Task      117 on host nid001812 reporting.
+  Task      118 on host nid001812 reporting.
+  Task      119 on host nid001812 reporting.
+  Task      120 on host nid001812 reporting.
+  Task      121 on host nid001812 reporting.
+  Task      122 on host nid001812 reporting.
+  Task      123 on host nid001812 reporting.
+  Task      124 on host nid001812 reporting.
+  Task      125 on host nid001812 reporting.
+  Task      126 on host nid001812 reporting.
+  Task      127 on host nid001812 reporting.
+  Task      128 on host nid001870 reporting.
+  Task      129 on host nid001870 reporting.
+  Task      130 on host nid001870 reporting.
+  Task      131 on host nid001870 reporting.
+  Task      132 on host nid001870 reporting.
+  Task      133 on host nid001870 reporting.
+  Task      134 on host nid001870 reporting.
+  Task      135 on host nid001870 reporting.
+  Task      136 on host nid001870 reporting.
+  Task      137 on host nid001870 reporting.
+  Task      138 on host nid001870 reporting.
+  Task      139 on host nid001870 reporting.
+  Task      140 on host nid001870 reporting.
+  Task      141 on host nid001870 reporting.
+  Task      142 on host nid001870 reporting.
+  Task      143 on host nid001870 reporting.
+  Task      144 on host nid001870 reporting.
+  Task      145 on host nid001870 reporting.
+  Task      146 on host nid001870 reporting.
+  Task      147 on host nid001870 reporting.
+  Task      148 on host nid001870 reporting.
+  Task      149 on host nid001870 reporting.
+  Task      150 on host nid001870 reporting.
+  Task      151 on host nid001870 reporting.
+  Task      152 on host nid001870 reporting.
+  Task      153 on host nid001870 reporting.
+  Task      154 on host nid001870 reporting.
+  Task      155 on host nid001870 reporting.
+  Task      156 on host nid001870 reporting.
+  Task      157 on host nid001870 reporting.
+  Task      158 on host nid001870 reporting.
+  Task      159 on host nid001870 reporting.
+  Task      160 on host nid001870 reporting.
+  Task      161 on host nid001870 reporting.
+  Task      162 on host nid001870 reporting.
+  Task      163 on host nid001870 reporting.
+  Task      164 on host nid001870 reporting.
+  Task      165 on host nid001870 reporting.
+  Task      166 on host nid001870 reporting.
+  Task      167 on host nid001870 reporting.
+  Task      168 on host nid001870 reporting.
+  Task      169 on host nid001870 reporting.
+  Task      170 on host nid001870 reporting.
+  Task      171 on host nid001870 reporting.
+  Task      172 on host nid001870 reporting.
+  Task      173 on host nid001870 reporting.
+  Task      174 on host nid001870 reporting.
+  Task      175 on host nid001870 reporting.
+  Task      176 on host nid001870 reporting.
+  Task      177 on host nid001870 reporting.
+  Task      178 on host nid001870 reporting.
+  Task      179 on host nid001870 reporting.
+  Task      180 on host nid001870 reporting.
+  Task      181 on host nid001870 reporting.
+  Task      182 on host nid001870 reporting.
+  Task      183 on host nid001870 reporting.
+  Task      184 on host nid001870 reporting.
+  Task      185 on host nid001870 reporting.
+  Task      186 on host nid001870 reporting.
+  Task      187 on host nid001870 reporting.
+  Task      188 on host nid001870 reporting.
+  Task      189 on host nid001870 reporting.
+  Task      190 on host nid001870 reporting.
+  Task      191 on host nid001870 reporting.
+  Task      192 on host nid001870 reporting.
+  Task      193 on host nid001870 reporting.
+  Task      194 on host nid001870 reporting.
+  Task      195 on host nid001870 reporting.
+  Task      196 on host nid001870 reporting.
+  Task      197 on host nid001870 reporting.
+  Task      198 on host nid001870 reporting.
+  Task      199 on host nid001870 reporting.
+  Task      200 on host nid001870 reporting.
+  Task      201 on host nid001870 reporting.
+  Task      202 on host nid001870 reporting.
+  Task      203 on host nid001870 reporting.
+  Task      204 on host nid001870 reporting.
+  Task      205 on host nid001870 reporting.
+  Task      206 on host nid001870 reporting.
+  Task      207 on host nid001870 reporting.
+  Task      208 on host nid001870 reporting.
+  Task      209 on host nid001870 reporting.
+  Task      210 on host nid001870 reporting.
+  Task      211 on host nid001870 reporting.
+  Task      212 on host nid001870 reporting.
+  Task      213 on host nid001870 reporting.
+  Task      214 on host nid001870 reporting.
+  Task      215 on host nid001870 reporting.
+  Task      216 on host nid001870 reporting.
+  Task      217 on host nid001870 reporting.
+  Task      218 on host nid001870 reporting.
+  Task      219 on host nid001870 reporting.
+  Task      220 on host nid001870 reporting.
+  Task      221 on host nid001870 reporting.
+  Task      222 on host nid001870 reporting.
+  Task      223 on host nid001870 reporting.
+  Task      224 on host nid001870 reporting.
+  Task      225 on host nid001870 reporting.
+  Task      226 on host nid001870 reporting.
+  Task      227 on host nid001870 reporting.
+  Task      228 on host nid001870 reporting.
+  Task      229 on host nid001870 reporting.
+  Task      230 on host nid001870 reporting.
+  Task      231 on host nid001870 reporting.
+  Task      232 on host nid001870 reporting.
+  Task      233 on host nid001870 reporting.
+  Task      234 on host nid001870 reporting.
+  Task      235 on host nid001870 reporting.
+  Task      236 on host nid001870 reporting.
+  Task      237 on host nid001870 reporting.
+  Task      238 on host nid001870 reporting.
+  Task      239 on host nid001870 reporting.
+  Task      240 on host nid001870 reporting.
+  Task      241 on host nid001870 reporting.
+  Task      242 on host nid001870 reporting.
+  Task      243 on host nid001870 reporting.
+  Task      244 on host nid001870 reporting.
+  Task      245 on host nid001870 reporting.
+  Task      246 on host nid001870 reporting.
+  Task      247 on host nid001870 reporting.
+  Task      248 on host nid001870 reporting.
+  Task      249 on host nid001870 reporting.
+  Task      250 on host nid001870 reporting.
+  Task      251 on host nid001870 reporting.
+  Task      252 on host nid001870 reporting.
+  Task      253 on host nid001870 reporting.
+  Task      254 on host nid001870 reporting.
+  Task      255 on host nid001870 reporting.
+
+  Performing system and environment tests:
+  | Environment variable OMP_NUM_THREADS correctly set to 1.
+  | Checking for ScaLAPACK...
+  | Testing pdtran()...
+  | All pdtran() tests passed.
+
+  Obtaining array dimensions for all initial allocations:
+  
+  -----------------------------------------------------------------------
+  Parsing control.in (first pass over file, find array dimensions only).
+  The contents of control.in will be repeated verbatim below
+  unless switched off by setting 'verbatim_writeout .false.' .
+  in the first line of control.in .
+  -----------------------------------------------------------------------
+  

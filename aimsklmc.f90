@@ -84,17 +84,20 @@
 
        klmc_task_filepath = trim(klmc_task_iopath_full) // "/aimsklmc.out"
 
-! wkjee stdout check
-       write(*,'(A,A)') "in aimsklmc.f90 : KLMC3 klmc_task_iopath   : ", klmc_task_iopath_full
-       write(*,'(A,A)') "in aimsklmc.f90 : KLMC3 klmc_task_filepath : ", klmc_task_filepath
-! wkjee stdout check
-     
       ! wkjee: file O setup
       out_unit = klmc_worker_id + 112
      
       call MPI_Comm_rank(MPI_comm_klmc,rank,ierr)
       call MPI_Comm_size(MPI_comm_klmc,cpu_count,ierr)
 
+! wkjee stdout check
+       if(rank.eq.0) then
+           write(*,'(A,A)') "in aimsklmc.f90 : KLMC3 klmc_task_iopath   : ", klmc_task_iopath_full
+           write(*,'(A,A)') "in aimsklmc.f90 : KLMC3 klmc_task_filepath : ", klmc_task_filepath
+       end if
+! wkjee stdout check
+
+      ! wkjee out channel only : rank .eq. 0
       if(rank.eq.0) then
           open(unit=out_unit,file=klmc_task_filepath,status='replace')
       end if

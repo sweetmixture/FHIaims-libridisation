@@ -2,8 +2,8 @@
 
 # Slurm job options (job-name, compute nodes, job time)
 #SBATCH --job-name=tf_single
-#SBATCH --time=00:20:00
-#SBATCH --nodes=4
+#SBATCH --time=0:20:00
+#SBATCH --nodes=2
 
 # Replace [budget code] below with your budget code (e.g. t01)
 #SBATCH --account=e05-gc-sok
